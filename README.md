@@ -39,15 +39,16 @@ pip install pandas numpy scikit-learn matplotlib seaborn tensorflow
 
 1. Clone this repository to your local machine:
 
-git clone https://github.com/Sofiaanjum/Customer-Segmentation.git
+    git clone https://github.com/Sofiaanjum/Customer-Segmentation.git
 
 2. Navigate to the project directory:
 
-cd Customer-Segmentation
+    cd Customer-Segmentation
 
 3. Place the marketing_campaign.xlsx dataset in the root directory.
 
-4. Run the Jupyter Notebook or Python scripts to execute the customer segmentation analysis. You can explore various clustering algorithms, dimensionality reduction techniques, and visualization methods provided in the project files.
+4. Run the Jupyter Notebook or Python scripts to execute the customer segmentation analysis. You can explore various clustering algorithms, dimensionality 
+   reduction techniques, and visualization methods provided in the project files.
 
 # Results
 The project aims to discover meaningful customer segments that can be used to tailor marketing strategies effectively. The results of the analysis, including visualizations and insights gained from customer segmentation, can be found in the Jupyter Notebook or Python scripts provided in this repository.
