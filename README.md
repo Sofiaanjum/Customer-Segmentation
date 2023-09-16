@@ -35,7 +35,7 @@ You can install these libraries using pip:
 
 pip install pandas numpy scikit-learn matplotlib seaborn tensorflow
 
-## Usage
+# Usage
 
 1. Clone this repository to your local machine:
 
@@ -49,10 +49,10 @@ cd Customer-Segmentation
 
 4. Run the Jupyter Notebook or Python scripts to execute the customer segmentation analysis. You can explore various clustering algorithms, dimensionality reduction techniques, and visualization methods provided in the project files.
 
-## Results
+# Results
 The project aims to discover meaningful customer segments that can be used to tailor marketing strategies effectively. The results of the analysis, including visualizations and insights gained from customer segmentation, can be found in the Jupyter Notebook or Python scripts provided in this repository.
 
-## Contributing
+# Contributing
 Contributions to this project are welcome! If you have any suggestions or improvements, please feel free to open an issue or create a pull request.
 
 License
